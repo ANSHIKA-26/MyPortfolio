@@ -23,9 +23,11 @@ const Projects = () => {
                 />
               </div>
               <div className="card-image-overly m-auto mt-3">
-                <span className="card-detail-badge">HTML</span>
-                <span className="card-detail-badge">CSS</span>
-                <span className="card-detail-badge">JavaScript</span>
+                <span className="card-detail-badge">Node</span>
+                <span className="card-detail-badge">Express</span>
+                <span className="card-detail-badge">React</span>
+                <span className="card-detail-badge">Mongo</span>
+
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
@@ -33,7 +35,7 @@ const Projects = () => {
                     Helping Hands
                   </h5>
                 </div>
-                <a className="ad-btn" href="https://anshika-26.github.io/HelpingHands2.0/">
+                <a className="ad-btn" href="https://helping-hands-deployement2.netlify.app/">
                   View
                 </a>
               </div>
