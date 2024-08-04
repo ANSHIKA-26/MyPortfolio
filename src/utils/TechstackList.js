@@ -27,7 +27,7 @@ export const TechstackList = [
   },
   {
     _id: 2,
-    name: "CSS / SCSS",
+    name: "CSS",
     icon: BsFiletypeCss,
   },
   {
@@ -40,11 +40,7 @@ export const TechstackList = [
     name: "Javascript",
     icon: SiJavascript,
   },
-  {
-    _id: 5,
-    name: "TypeScript",
-    icon: SiTypescript,
-  },
+
  
   {
     _id: 7,
@@ -53,11 +49,7 @@ export const TechstackList = [
   },
 
  
-  {
-    _id: 10,
-    name: "Tailwind ",
-    icon: SiTailwindcss,
-  },
+
   {
     _id: 11,
     name: "Figma ",
@@ -65,11 +57,7 @@ export const TechstackList = [
   },
 
   
-  {
-    _id: 14,
-    name: "React Native ",
-    icon: SiReact,
-  },
+ 
   {
     _id: 15,
     name: "Node JS ",
@@ -88,24 +76,16 @@ export const TechstackList = [
   },
   {
     _id: 19,
-    name: "SQL ",
+    name: "MySQL ",
     icon: SiMysql,
   },
-  {
-    _id: 20,
-    name: "Firebase ",
-    icon: SiFirebase,
-  },
+  
   {
     _id: 21,
-    name: "Git / Github ",
+    name: "Git ",
     icon: SiGithub,
   },
-  {
-    _id:22,
-    name:"PostgreSQL",
-    icon:SiPostgresql,
-  }
+  
   
 
 ];
